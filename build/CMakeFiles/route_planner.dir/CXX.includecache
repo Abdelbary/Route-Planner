@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../thirdparty/pugixml/src/pugiconfig.hpp
+
+../thirdparty/pugixml/src/pugixml.hpp
+pugiconfig.hpp
+../thirdparty/pugixml/src/pugiconfig.hpp
+stddef.h
+-
+exception
+-
+iterator
+-
+iosfwd
+-
+string
+-
+
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/model.cpp
+model.h
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/model.h
+pugixml.hpp
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/pugixml.hpp
+iostream
+-
+string_view
+-
+cmath
+-
+algorithm
+-
+assert.h
+-
+
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/model.h
+vector
+-
+unordered_map
+-
+string
+-
+cstddef
+-
+
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/route_model.cpp
+route_model.h
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/route_model.h
+iostream
+-
+
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/route_model.h
+limits
+-
+cmath
+-
+unordered_map
+-
+model.h
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/model.h
+iostream
+-
+
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/route_planner.cpp
+route_planner.h
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/route_planner.h
+algorithm
+-
+
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/route_planner.h
+iostream
+-
+vector
+-
+string
+-
+route_model.h
+/home/workspace/git/cpp_learning_projects/udacity C++ nanoDegree/rotuePlannerProject/src/route_model.h
+
